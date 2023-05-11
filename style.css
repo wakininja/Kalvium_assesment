@@ -1,0 +1,13 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-right:1px;
+    justify-content: flex-start;
+}
+
+.container .element{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+}
